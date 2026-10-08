@@ -1,0 +1,36 @@
+{
+    "partialKeyword": "Cy",
+    "unrelatedKeyword": "zzz-no-product-98765",
+
+    "product": {
+        "id": "8873071",
+        "altId": "8873070",
+        "brand": "KIPRUN",
+        "rating": "4.7",
+        "size": "6.5",
+        "altSize": "5.5"
+    },
+
+    "invalidPincode": "723000",
+
+    "messages": {
+        "sizeRequired": "Please select a size",
+        "invalidPincode": "Unable to find location for this pincode",
+        "guestLogin": "Login to Proceed"
+    },
+
+    "cart": {
+        "quantity": "1",
+        "sellingPrice": "₹4,999",
+        "mrp": "₹6,499",
+        "discount": "₹1,500",
+        "total": "₹4,999"
+    },
+
+    "specs": {
+        "distance": "From 1 to 10 km",
+        "weight": "264 g",
+        "frequency": "Regular,intensive",
+        "footWidth": "Medium"
+    }
+}
